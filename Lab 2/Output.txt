@@ -1,0 +1,94 @@
+a)
+
+        Android 6 for Programmers: An App-Driven Approach Paul Deitel
+        Android 6 for Programmers: An App-Driven Approach Harvey Deitel
+        Android 6 for Programmers: An App-Driven Approach Sue Green
+        Android How to Program Harvey Deitel
+        Android How to Program Paul Deitel
+        C How to Program Paul Deitel
+        C How to Program Harvey Deitel
+        C++ How to Program Paul Deitel
+        C++ How to Program Harvey Deitel
+        Internet & World Wide Web How to Program Abbey Deitel
+        Internet & World Wide Web How to Program Paul Deitel
+        Internet & World Wide Web How to Program Harvey Deitel
+        iOS 8 for Programmers: An App-Driven Approach with Swift Harvey Deitel
+        iOS 8 for Programmers: An App-Driven Approach with Swift Paul Deitel
+        Java How to Program Paul Deitel
+        Java How to Program Harvey Deitel
+        Java How to Program, Late Objects Version Harvey Deitel
+        Java How to Program, Late Objects Version Paul Deitel
+        Swift for Programmers Paul Deitel
+        Swift for Programmers Harvey Deitel
+        Visual Basic 2012 How to Program Harvey Deitel
+        Visual Basic 2012 How to Program Paul Deitel
+        Visual Basic 2012 How to Program Abbey Deitel
+        Visual C# How to Program Harvey Deitel
+        Visual C# How to Program Paul Deitel
+
+b)
+
+        Android 6 for Programmers: An App-Driven Approach Deitel Harvey
+        Android 6 for Programmers: An App-Driven Approach Deitel Paul
+        Android 6 for Programmers: An App-Driven Approach Green Sue
+        Android How to Program Deitel Harvey
+        Android How to Program Deitel Paul
+        C How to Program Deitel Harvey
+        C How to Program Deitel Paul
+        C++ How to Program Deitel Harvey
+        C++ How to Program Deitel Paul
+        Internet & World Wide Web How to Program Deitel Abbey
+        Internet & World Wide Web How to Program Deitel Harvey
+        Internet & World Wide Web How to Program Deitel Paul
+        iOS 8 for Programmers: An App-Driven Approach with Swift Deitel Harvey
+        iOS 8 for Programmers: An App-Driven Approach with Swift Deitel Paul
+        Java How to Program Deitel Harvey
+        Java How to Program Deitel Paul
+        Java How to Program, Late Objects Version Deitel Harvey
+        Java How to Program, Late Objects Version Deitel Paul
+        Swift for Programmers Deitel Harvey
+        Swift for Programmers Deitel Paul
+        Visual Basic 2012 How to Program Deitel Abbey
+        Visual Basic 2012 How to Program Deitel Harvey
+        Visual Basic 2012 How to Program Deitel Paul
+        Visual C# How to Program Deitel Harvey
+        Visual C# How to Program Deitel Paul
+
+c)
+
+        Android 6 for Programmers: An App-Driven Approach:
+                Deitel Harvey
+                Deitel Paul
+                Green Sue
+        Android How to Program:
+                Deitel Harvey
+                Deitel Paul
+        C How to Program:
+                Deitel Harvey
+                Deitel Paul
+        C++ How to Program:
+                Deitel Harvey
+                Deitel Paul
+        Internet & World Wide Web How to Program:
+                Deitel Abbey
+                Deitel Harvey
+                Deitel Paul
+        iOS 8 for Programmers: An App-Driven Approach with Swift:
+                Deitel Harvey
+                Deitel Paul
+        Java How to Program:
+                Deitel Harvey
+                Deitel Paul
+        Java How to Program, Late Objects Version:
+                Deitel Harvey
+                Deitel Paul
+        Swift for Programmers:
+                Deitel Harvey
+                Deitel Paul
+        Visual Basic 2012 How to Program:
+                Deitel Abbey
+                Deitel Harvey
+                Deitel Paul
+        Visual C# How to Program:
+                Deitel Harvey
+                Deitel PaulPress any key to continue . . .
